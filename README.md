@@ -1,4 +1,4 @@
-# Supplementary Materia
+# Overview 
 
 This page provides supplementary material for the paper Integrative Modelling of Signalling Network Dynamics Identifies Cell Type-selective Therapeutic Strategies for FGFR4-driven Cancers. Matlab 2020b is used to implemented the code. 
 
