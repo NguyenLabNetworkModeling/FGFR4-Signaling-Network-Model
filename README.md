@@ -1,21 +1,8 @@
 # Overview 
 
-This page provides supplementary material for the paper Integrative Modelling of Signalling Network Dynamics Identifies Cell Type-selective Therapeutic Strategies for FGFR4-driven Cancers. Matlab 2020b is used to implemented the code. 
-
-This page was updated on 17 March 2022.
-
+Supplementary Information: Integrative Modelling of Signalling Network Dynamics Identifies Cell Type-selective Therapeutic Strategies for FGFR4-driven Cancers.
+Implementation of the numerical simulations described in the present study was carried out using Matlab 2022b. 
 
 # Run the model
+To initiate the computational simulation, the 'Project_Manager.m' script was executed within the MATLAB environment.
 
-1. TO RUN THE MODEL: To run a single run of the model, run "RunModel.m".
-
-
-
-# Example
-
-
-# License
-
-
-# Citing
-This code can be cited using following DOI
